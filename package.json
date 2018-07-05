@@ -29,7 +29,7 @@
   },
   "config": {
     "imageRepo": "karinniffeler/mat182-app",
-    "imageName": "mat182-app",
+    "imageName": "mat182-app-container",
     "imagePort": "8080"
   },
   "private": true,
