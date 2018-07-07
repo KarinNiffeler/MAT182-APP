@@ -1,3 +1,3 @@
-FROM karin/dev/mat182-app/dist:latest
-WORKDIR /karin/dev/mat182-app/src/app
+FROM alpine:latest
+WORKDIR /karin/dev/MAT182-APP/src/app
 COPY dist public
