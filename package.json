@@ -30,7 +30,7 @@
   "config": {
     "imageRepo": "karinniffeler/test2",
     "imageName": "test2-container",
-    "imagePort": "8080"
+    "imagePort": "4000"
   },
   "private": true,
   "dependencies": {
