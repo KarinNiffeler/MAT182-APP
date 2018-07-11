@@ -2,7 +2,7 @@
 FROM alpine:latest
 
 # Set the working directorey to .../app
-WORKDIR /MAT182-APP/src/app
+WORKDIR /karin/dev/MAT182-APP/src/app
 
 COPY dist public
 
