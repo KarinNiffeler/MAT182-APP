@@ -28,8 +28,8 @@
     "docker:debug": "run-s -cs docker:open:win docker:open:mac docker:debugmessage docker:taillogs"
   },
   "config": {
-    "imageRepo": "karinniffeler/mat182-app",
-    "imageName": "mat182-app-container",
+    "imageRepo": "karinniffeler/test2",
+    "imageName": "test2-container",
     "imagePort": "8080"
   },
   "private": true,
