@@ -7,7 +7,7 @@ WORKDIR /karin/dev/MAT182-APP/src/app
 COPY dist public
 
 # Make port 80 available to the world outside this container
-EXPOSE 80
+#EXPOSE 80
 
 
 # Copy the current directory contents into the container at .../app
